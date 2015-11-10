@@ -1,0 +1,22 @@
+{
+  "name": "politihub",
+  "version": "1.0.0",
+  "description": "a place to go to find out about candidates CS360 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkrieg/Politihub.git"
+  },
+  "keywords": [
+    "politics"
+  ],
+  "author": "Spencer Krieger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkrieg/Politihub/issues"
+  },
+  "homepage": "https://github.com/gkrieg/Politihub#readme"
+}
