@@ -4,7 +4,8 @@
   "description": "a place to go to find out about candidates CS360 project",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/gkrieg/Politihub/issues"
   },
-  "homepage": "https://github.com/gkrieg/Politihub#readme"
+  "homepage": "https://github.com/gkrieg/Politihub#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
 }
